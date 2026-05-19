@@ -1,4 +1,4 @@
-# SAP Datasphere Basic Trials - 한글 학습 자료
+# SAP Datasphere Basic Trials - 한글 학습 자료 ㅅㄷㄴㅅ
 
 SAP Datasphere 기본 실습(Basic Trials) 온라인 학습 사이트의 내용을 한국어로 정리한 자료입니다.
 
